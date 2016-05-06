@@ -1,5 +1,5 @@
 {
-  "name":"redcomponent/teststatistics",
+  "name":"ElParking/teststatistics",
   "description":"Codeception Extension to measure the performance of your tests",
   "keywords":["performance", "acceptance testing", "functional testing", "unit testing", "tdd"],
   "homepage":"https://github.com/redCOMPONENT-COM/teststatistics",
